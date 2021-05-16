@@ -1,14 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 14 15:02:20 2021
-
-@author: 1636740
-
-python==3.8.3
-https://github.com/Pawandeep-prog/resnet-flask-webapp
-Credits for html images
-"""
-
 import cv2
 import numpy as np
 from flask import Flask, request, render_template
@@ -23,14 +12,14 @@ from configparser import ConfigParser
 
 # Read config File
 cp = ConfigParser()
-cp.read('C:/Users/Balaji/Documents/tshr/python_projects/TO_GIT/Tomato/info.ini')
+cp.read('Tomato/info.ini')
 
 
-label_file = open('C:/Users/Balaji/Documents/tshr/python_projects/TO_GIT/Tomato/labels.txt', 'r')
+label_file = open('Tomato/labels.txt', 'r')
 targets = label_file.read()
 targets = (targets.split('\n'))[:-1]
 
-densenet = load_model('C:/Users/Balaji/Documents/tshr/python_projects/TO_GIT/Tomato/models/model_weights/Tomato_DenseNet121_10.h5')
+densenet = load_model('Tomato/models/model_weights/Tomato_DenseNet121_10.h5')
 
 
 app = Flask('__name__')
@@ -48,9 +37,9 @@ def prediction():
     dt_string = now.strftime("%d_%m_%Y_%H_%M_%S")
 
     image = request.files['img']
-    image.save(f'C:/Users/Balaji/Documents/tshr/python_projects/TO_GIT/Tomato/Predicted_Images/img_{dt_string}.jpg')
+    image.save(f'Tomato/Predicted_Images/img_{dt_string}.jpg')
 
-    img = cv2.imread(f'C:/Users/Balaji/Documents/tshr/python_projects/TO_GIT/Tomato/Predicted_Images/img_{dt_string}.jpg')
+    img = cv2.imread(f'Tomato/Predicted_Images/img_{dt_string}.jpg')
     img = cv2.resize(img, (256, 256))
     img = img/255.0     # if u have used 255.0 divison to normalize images while training
     # img = preprocess_input(img)   # if u have used preprocess_input to normalize images while training 
@@ -67,7 +56,7 @@ def prediction():
     data3 = information.split('\n\n')[1]
     data4 = information.split('\n\n')[2]
 
-    label_save_file = open('C:/Users/Balaji/Documents/tshr/python_projects/TO_GIT/Tomato/Predicted_Images/label_save.txt', 'a')
+    label_save_file = open('Tomato/Predicted_Images/label_save.txt', 'a')
     label_save_file.write(f'img_{dt_string}    ----    {prediction}    ----    {probability}%\n')    
     label_save_file.close()
 
