@@ -25,10 +25,11 @@ I tried various transfer learning models for training and chose Densenet121 beca
 ## Credits
 1. The credits for dataset used for training goes to https://www.kaggle.com/noulam/tomato
 2. I have modified https://github.com/Pawandeep-prog/resnet-flask-webapp/tree/main/templates html templates for flask
-3. The credit for image used in html file for background goes to: 
+3. The credit for image used in html file for background goes to:
+ 
+https://gray-kfyr-prod.cdn.arcpublishing.com/resizer/FQLjpb-2QAmZen2144Gpj79B7tI=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/FVYN3SW6F5FBHOQNSAPYCK2CPI.jpeg
   
-  a. https://gray-kfyr-prod.cdn.arcpublishing.com/resizer/FQLjpb-2QAmZen2144Gpj79B7tI=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/FVYN3SW6F5FBHOQNSAPYCK2CPI.jpeg
-  
-  b. https://www.thespruce.com/thmb/47xukLrGeP6r8jbmyeFFujXn4ug=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/top-tomato-growing-tips-1402587-11-c6d6161716fd448fbca41715bbffb1d9.jpg
-  
+https://www.thespruce.com/thmb/47xukLrGeP6r8jbmyeFFujXn4ug=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/top-tomato-growing-tips-1402587-11-c6d6161716fd448fbca41715bbffb1d9.jpg
+
+
 ##### For better prediction, we need better image quality dataset for training.
