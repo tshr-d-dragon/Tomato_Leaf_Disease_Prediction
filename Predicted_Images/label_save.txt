@@ -1,0 +1,113 @@
+img_14_05_2021_19_27_14    ----    healthy    ----    100.0%
+img_14_05_2021_19_28_33    ----    Late_blight    ----    100.0%
+img_14_05_2021_19_31_32    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_19_34_12    ----    Early_blight    ----    100.0%
+img_14_05_2021_19_35_34    ----    Bacterial_spot    ----    100.0%
+img_14_05_2021_22_19_05    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_14_05_2021_22_20_48    ----    Early_blight    ----    100.0%
+img_14_05_2021_22_21_37    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_14_05_2021_22_22_08    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_14_05_2021_22_23_43    ----    healthy    ----    100.0%
+img_14_05_2021_22_29_04    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_22_29_28    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_22_29_57    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_22_30_26    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_22_30_39    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_22_31_05    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_22_32_39    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_22_32_57    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_22_33_18    ----    Leaf_Mold    ----    100.0%
+img_14_05_2021_22_36_05    ----    Leaf_Mold    ----    100.0%
+img_14_05_2021_22_36_36    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_22_37_35    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_22_37_53    ----    Tomato_mosaic_virus    ----    100.0%
+img_14_05_2021_22_44_52    ----    Late_blight    ----    95.11%
+img_14_05_2021_23_35_50    ----    Late_blight    ----    100.0%
+img_14_05_2021_23_36_04    ----    Late_blight    ----    95.11%
+img_14_05_2021_23_56_02    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_14_05_2021_23_56_25    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_14_05_2021_23_58_22    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_14_05_2021_23_58_41    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_14_05_2021_23_59_00    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_14_05_2021_23_59_12    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_14_05_2021_23_59_25    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_14_05_2021_23_59_46    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_00_08    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_00_16    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_01_14    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_01_23    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_02_11    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_03_46    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_04_31    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_04_41    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_04_49    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_04_52    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_04_59    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_05_08    ----    Spider_mites Two-spotted_spider_mite    ----    100.0%
+img_15_05_2021_00_10_49    ----    Leaf_Mold    ----    100.0%
+img_15_05_2021_00_11_45    ----    Leaf_Mold    ----    100.0%
+img_15_05_2021_00_14_10    ----    Leaf_Mold    ----    100.0%
+img_15_05_2021_00_14_15    ----    Leaf_Mold    ----    100.0%
+img_15_05_2021_00_20_02    ----    Tomato_mosaic_virus    ----    100.0%
+img_15_05_2021_00_20_13    ----    Tomato_mosaic_virus    ----    100.0%
+img_15_05_2021_00_21_32    ----    Tomato_mosaic_virus    ----    100.0%
+img_15_05_2021_00_21_43    ----    Tomato_mosaic_virus    ----    100.0%
+img_15_05_2021_00_24_08    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_25_42    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_25_57    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_26_21    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_27_38    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_27_51    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_28_13    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_28_28    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_28_42    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_29_20    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_29_31    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_29_45    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_30_00    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_30_14    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_31_42    ----    Tomato_Yellow_Leaf_Curl_Virus    ----    100.0%
+img_15_05_2021_00_36_47    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_39_40    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_40_11    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_40_20    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_40_32    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_40_40    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_41_26    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_41_36    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_41_37    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_41_47    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_41_52    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_43_32    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_43_39    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_43_47    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_44_11    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_44_20    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_44_40    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_44_42    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_45_28    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_46_13    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_46_22    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_46_43    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_46_50    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_47_46    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_47_54    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_47_56    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_48_06    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_48_11    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_49_12    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_49_18    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_50_55    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_51_59    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_53_07    ----    Septoria_leaf_spot    ----    100.0%
+img_15_05_2021_00_54_20    ----    Late_blight    ----    95.11%
+img_15_05_2021_11_33_28    ----    Early_blight    ----    100.0%
+img_15_05_2021_12_16_43    ----    Leaf_Mold    ----    100.0%
+img_15_05_2021_14_02_40    ----    Late_blight    ----    100.0%
+img_15_05_2021_14_03_29    ----    Tomato_mosaic_virus    ----    100.0%
+img_15_05_2021_14_04_33    ----    Tomato_mosaic_virus    ----    100.0%
+img_15_05_2021_14_04_41    ----    Tomato_mosaic_virus    ----    100.0%
+img_15_05_2021_14_04_52    ----    Tomato_mosaic_virus    ----    100.0%
+img_15_05_2021_14_05_13    ----    Late_blight    ----    100.0%
+img_15_05_2021_20_25_16    ----    Late_blight    ----    95.11%
+img_15_05_2021_20_25_39    ----    Tomato_mosaic_virus    ----    100.0%

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Prediction</title>
+	<style>
+      body {
+        background-image: url('https://www.thespruce.com/thmb/47xukLrGeP6r8jbmyeFFujXn4ug=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/top-tomato-growing-tips-1402587-11-c6d6161716fd448fbca41715bbffb1d9.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover; 
+        background-blend-mode: screen;
+        backdrop-filter: blur(5px);
+      }
+     </style>
+</head>
+<body>
+
+	<center>
+	
+		<h1 style="color:white; font-family:courier; font-size:330%;">Welcome to prediction</h1>
+
+		<h3 style="color:white; font-family:courier; font-size:200%;">Prediction is : {{data}}</h3>
+		
+		<h3 style="color:white; font-family:courier; font-size:200%;">Probability of prediction is : {{data1}}%</h3>
+		
+		<p style="color:white; font-family:courier; font-size:160%;"><b>Information : </b> {{data2}}</p>
+				
+		<a style="color:white; font-family:courier; font-size:160%;" href={{data4}} target="_blank"><b>{{data3}}</b></a>
+				
+		<p style="color:white;"><button onclick="goBack()"><b>Go Back</b></button></p>
+
+        <script>
+        function goBack() {
+          window.history.back();
+        }
+        </script>
+
+	</center>
+
+</body>
+</html>
