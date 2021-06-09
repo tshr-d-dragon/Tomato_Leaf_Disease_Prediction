@@ -1,6 +1,10 @@
 # Tomato_Leaf_Disease_Prediction
- 
+
 ### A DL project with deployment to predict tomato leaf disease using transfer learning techniques
+
+![Home Page](https://github.com/tshr-d-dragon/Tomato_Leaf_Disease_Prediction/blob/main/templates/Screenshot%20(129).png)
+
+![Prediction Page](https://github.com/tshr-d-dragon/Tomato_Leaf_Disease_Prediction/blob/main/templates/Screenshot%20(130).png)
 
 This projects helps predicting sign language gestures. 
 I tried various transfer learning models for training and chose Densenet121 because of comparatively better performance and smaller size benefitial for smoother deployment.
